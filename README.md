@@ -6,7 +6,7 @@ Ps: The use of react is absolutely unnecessary for this project, I mainly used i
 # Scrapping
 I personalized my project by making a JSON file with quotes from some famous Stoic thinkers, after scrapping them with NodeJs from the website goodreads.com using this little tool:  [goodreads-quote-scraper](https://github.com/facebook/create-react-app).
 
-I also used a little bit of Bootstrap, and [react-icons] (https://github.com/react-icons/react-icons) to replace Font Awesome.
+I also used a little bit of Bootstrap, and [react-icons](https://github.com/react-icons/react-icons) to replace Font Awesome.
 
 # Live Preview
- [click here to check the project] (https://ihsenben.github.io/StoicQuoteMachine-FCCproject/) 
+ [click here to check the project](https://ihsenben.github.io/StoicQuoteMachine-FCCproject/) 
