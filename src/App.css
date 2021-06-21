@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+  background-color: #1d3557;
+  background-image: url("output-onlinepngtools.png");
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: 700px 300px;
+}
+
+#quote-box {
+  padding-top: 10vh;
+  background-color: #e63946;
+  color: #f1faee;
+
+  min-width: 200px;
+  margin: 100px 0px 100px 0px;
+}
+.wrapper {
+  height: 100vh;
+}
+#tweet-quote {
+  background-color: #457b9d;
+}
+#new-quote {
+  background-color: #457b9d;
+}
+.App-header {
+  padding-bottom: 20px;
+  background-color: #1d3557;
+
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+
+  color: #f1faee;
+  text-align: center;
+  margin: 0;
+  z-index: 99;
+  position: relative;
+}
+
+.App-link {
+  color: #61dafb;
+}
